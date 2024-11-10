@@ -17,6 +17,8 @@ import FunctionMitTrue from './IfJsx';
 import ElseIfFunction from './IfElse';
 import Eventbeispiele from './Events';
 import LadeBalkenComponent from './Ladebalken';
+import Flexicounter from './SchleifeMitCounter';
+import BilderSchleife from './SchleifeMitBildern';
 
 
 
@@ -54,7 +56,17 @@ function App() {
     <p>State beschreibt die Veränderungen der Anwendung bei Aktionen des Users.<br />
       Dabei ist zu beachten, dass diese Veränderungen undbeding in React geschrieben werden müssen.</p>
 <StateCounter />
+<StateCounter />
+<StateCounter />
+<StateCounter />
       </div>
+      <div><p>Das ist ein Counter aus einer map.push Schleife aus Schleife SchleifeMitCounter.jsx</p>
+
+      <Flexicounter /></div>
+      <div><p>Das ist ein Counter aus einer map.push Bilder Schleife aus Schleife SchleifeMitBildern.jsx</p>
+      <BilderSchleife />
+
+<Flexicounter /></div>
 
       <div className='hooks'>
 

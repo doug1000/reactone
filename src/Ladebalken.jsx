@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import balken from './Vp3R.gif';
+//import balken from './Vp3R.gif';
 import kreis from './WMDx.gif';
 
 const LoadingComponent = () => {
@@ -14,8 +14,8 @@ const LoadingComponent = () => {
   }, []);
 
   if (loading) {
-    return <div><img src={balken} alt ="Loading" />
-    <img src={kreis} alt ="Loading" /></div>;
+    return <div><img src={kreis} alt ="Loading" /></div>;
+    //<img src={balken} alt ="Loading" />
   }
 
   return (
