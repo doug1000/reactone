@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactone/static/css/main.5bbe1581.css",
+    "main.js": "/reactone/static/js/main.5474a754.js",
+    "static/js/453.045f6b4a.chunk.js": "/reactone/static/js/453.045f6b4a.chunk.js",
+    "static/media/3333.png": "/reactone/static/media/3333.244c5d178f9b3b064e0e.png",
+    "static/media/WMDx.gif": "/reactone/static/media/WMDx.3d61e471e768c208950b.gif",
+    "static/media/Marv1.jpg": "/reactone/static/media/Marv1.7800c298aed0010dfcac.jpg",
+    "static/media/Marv2.jpg": "/reactone/static/media/Marv2.fe9f3ad27816541ee300.jpg",
+    "static/media/Marv4.jpg": "/reactone/static/media/Marv4.3d6fcfa7334760d63a8e.jpg",
+    "static/media/Marv3.jpg": "/reactone/static/media/Marv3.b015ae92cc455fd4767d.jpg",
+    "index.html": "/reactone/index.html",
+    "main.5bbe1581.css.map": "/reactone/static/css/main.5bbe1581.css.map",
+    "main.5474a754.js.map": "/reactone/static/js/main.5474a754.js.map",
+    "453.045f6b4a.chunk.js.map": "/reactone/static/js/453.045f6b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bbe1581.css",
+    "static/js/main.5474a754.js"
+  ]
+}
